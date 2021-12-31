@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://dev-hyes00.tistory.com/)
-	
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](hyesookim1118@gmail.com)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeS00&show_icons=true&theme=radical)
 <!--
 **HyeS00/HyeS00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
